@@ -1,0 +1,5 @@
+Unity Notes 
+Unity Hub is a free desktop app that lets you install and manage different versions of the Unity game engine, along with your Unity projects and account. Think of it as a launcher: you use it to create new projects and open existing ones with the correct Editor version. It includes templetes to use if you don't want to create your own.
+It installs and manages Unity Editor versions, creates and organizes your projects, and handles your Unity account and license. You open every project through it so it launches with the right Editor version.
+Unity Hub includes tabs for your Projects, Editor Installs (with optional build modules), Learning resources, and Community links, plus account and license management. It can also install a code editor like Visual Studio alongside an Editor version.
+Install LTS Editor versions for stability, and add build modules (like Android or WebGL) only for the platforms you need to save disk space. You can also right-click a project to open it in a specific Editor version or show it in your file explorer, and use the Hub's search and sort options to keep a long project list manageable.
