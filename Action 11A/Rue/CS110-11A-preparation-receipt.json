@@ -1,0 +1,23 @@
+{
+  "course": "CS110",
+  "action": "11A",
+  "engineRoute": "unity",
+  "recordedNoteSections": [
+    "brief",
+    "accord",
+    "transfer",
+    "base"
+  ],
+  "createdAt": "2026-11-03T23:29:40.518Z",
+  "status": "learner preparation declaration; not verified completion, attendance, submission or grade",
+  "individualWorkRequired": true,
+  "attentionAccordRequired": true,
+  "minimumTeamPlanningMinutes": 10,
+  "workMode": "team",
+  "personalRepository": "https://github.com/Rueben/my-cs110-repo",
+  "teamRepository": "https://github.com/DemonicAssets/Week-11-Repository/tree/main/Action%2011A",
+  "repositoryChecks": "learner must test local/pushed files and URLs; not automatically verified",
+  "submission": "One personal GitHub repository URL through each learner’s Canvas assignment; team URL in personal README if applicable",
+  "points": 15,
+  "due": "2026-11-03T15:05:00-08:00"
+}
