@@ -1,0 +1,20 @@
+{
+  "course": "CS110",
+  "action": "11A",
+  "engineRoute": "unity",
+  "recordedNoteSections": [
+    "extension"
+  ],
+  "createdAt": "2026-11-03T23:57:33.249Z",
+  "status": "learner preparation declaration; not verified completion, attendance, submission or grade",
+  "individualWorkRequired": true,
+  "attentionAccordRequired": true,
+  "minimumTeamPlanningMinutes": 10,
+  "workMode": "team",
+  "personalRepository": "https://github.com/Ohio-Rizz/Week-11-Personal",
+  "teamRepository": "https://github.com/DemonicAssets/Week-11-Repository",
+  "repositoryChecks": "learner must test local/pushed files and URLs; not automatically verified",
+  "submission": "One personal GitHub repository URL through each learner’s Canvas assignment; team URL in personal README if applicable",
+  "points": 15,
+  "due": "2026-11-03T15:05:00-08:00"
+}

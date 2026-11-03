@@ -1,0 +1,45 @@
+CS110 Week 11 Notes
+
+
+we are learning about engines and their behaviors and translating C# code into unity code.
+I plan to experiment with Console.WriteLine() and see how it works in unity
+
+
+Lecture:
+Web is for server and databases
+var functions
+Functions actually do things.
+There is no more complex programming than game development it encompasses every aspect of programming like human, biology physics, UI, systems ect
+It is important to understand that everything comes from binary and hardware everything follows the same rules regardless of what you are using
+
+use transference of knowledge between programs because the origin of computing
+
+build mind to be architect/creator
+
+With game development you must start with classes.
+A class is a blueprint.
+Inside the class we have containers.
+In that class we have actions which are functions.
+Within that contains are logic
+This is the baseline structure for all game engines.
+because it is a blueprint we need from that class to create our objects
+All programs are switching to object oriented
+Python is a scripting language 
+
+when you use an unknown language you say im unsure how to do it but I know it does it.
+Why do we expect an IDE?
+Learn to map what we did in previous to what we do in the future. 
+Unity Uses VS
+C# is what unity uses.
+Everything is predicated on binary
+C# is connected to the .net framework so is C++ when programmed in a PC and python when used in VS
+
+The lecture is used to give a mindset
+Unity is made for the gameloop
+unity has F(x) called update.
+Prefab gives a reference to assets within the folder.
+When you don't use prefabs it will crash and slow systems as prefabs use one object for reference instead of thousands.
+Objects can have functions unity calls them components 
+put it in C# first then translate.
+Some things in unity don't exist in C#
+This.transform
