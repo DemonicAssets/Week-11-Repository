@@ -1,0 +1,212 @@
+# CS110 — The Development Road
+
+## Christopher Guillen
+
+Personal record; not a submission receipt.
+
+## Before the next challenge.
+
+### My name
+Christopher Guillen
+
+### A question I want to resolve
+How does going from the creator mindset to the student mindset change the result of your work?
+
+## Recall. Question. Recalibrate.
+
+### What have I completed?
+Not recorded
+
+### My explanation of classes, objects, data and actions
+Not recorded
+
+### My questions, answers and remaining uncertainty
+Not recorded
+
+### My personal GitHub repository URL
+Not recorded
+
+### Readiness check
+Not recorded
+
+## Replace Chapters with Pipelines
+Attention First, Chapter 3, pp. 37–41.
+
+### What I understand from this chapter
+What I understood from this chapter is that pipelines help organize a project into smaller steps called nodes. Each node should have a purpose and a visible result. On pages 37–38, the author explains that pipelines help people stay motivated because they can see their progress. The chapter also introduces three important pipelines: Important Information, The Beginning, and Storytelling. I think this relates to our video game because we need to organize the development process so that every step helps us get closer to making a playable game.
+
+### My opinion and reasons
+I agree with the idea that breaking a project into smaller steps makes it easier to complete. Instead of trying to create our entire game at once, we can focus on making one feature work at a time. For example, our game involves catching bad guys, so we could first work on making the player move, then make the bad guys move, and finally create a way for the player to catch them. I think this approach would make the project easier to manage and help our team see what we have accomplished.
+
+### A decision I can apply
+For our game, I would create a three-node pipeline. The first node would be creating the player character and making it move around the game. Before starting, we would need to decide on the basic controls and game environment. The second node would be adding the bad guys and programming how they move. Before this step, the player movement and basic game environment should already work. The third node would be creating a system where the player can catch the bad guys. Before starting this step, both the player and bad guys would need to move correctly. The final result would be a playable game where the player can chase and catch a bad guy.
+
+### A question or next investigation
+One question I have is how we can make catching the bad guys challenging without making the game too difficult. I would like to test different movement speeds for the player and the bad guys to see what makes the game more enjoyable. We could have people play a simple version of our game and give us feedback on whether catching the bad guys is too easy or too hard.
+
+## Design for the Attention Economy
+Attention First, Chapter 6, pp. 53–58.
+
+### What I understand from this chapter
+What I understood from this chapter is that attention is important when designing something for people to use. On pages 54–55, the author explains that unclear instructions, too much information, and unnecessary distractions can cause people to lose focus. The chapter also explains that people should be able to understand what they are supposed to do without being overwhelmed. I think this applies to our video game because players should immediately understand that their goal is to catch bad guys without having to read too many instructions or navigate complicated menus.
+
+### My opinion and reasons
+I agree with the chapter because I think people enjoy games more when they are easy to understand and do not have unnecessary distractions. For example, in our game where the player catches bad guys, having too many buttons, instructions, or things happening on the screen could make it difficult for the player to focus on catching the criminals. I think having simple controls and a clear objective would make the game more enjoyable. Players should be able to spend most of their time actually playing instead of trying to figure out what they are supposed to do.
+
+### A decision I can apply
+One attention leak that could happen in our game is having unclear instructions about how to catch the bad guys. To fix this, our team could add a short tutorial at the beginning that shows the player how to move and catch criminals. We could also keep the screen simple by only displaying important information, such as the player's score and objective. We would know this change helps if new players can understand the controls and successfully catch a bad guy without needing someone to explain the game to them.
+
+### A question or next investigation
+One question I have is how much information should be displayed on the screen before it becomes distracting. I would like to test our game with different amounts of instructions and visual information to see which version is easier for players to understand. We could ask people to play the game without explaining anything beforehand and observe whether they can figure out how to catch the bad guys on their own. This would help us identify confusing parts of the game and improve the overall experience.
+
+## Identity and the Creator Loop
+Attention First, Chapter 7, pp. 61–69.
+
+### What I understand from this chapter
+What I understood from this chapter is that identity is developed through repeated actions, experiences, and learning from mistakes. On pages 67–69, the author explains that failure is part of success and that principles are more important than simply following rules. People become better at something by practicing, making mistakes, and improving over time. I think this relates to our video game project because our team needs to keep testing and improving the game instead of expecting everything to work perfectly the first time.
+
+### My opinion and reasons
+I agree with the chapter because I think making mistakes is an important part of learning how to create something. For example, while developing our game where the player catches bad guys, we might have problems with character movement, controls, or how the bad guys behave. Instead of giving up when something does not work, we should figure out what went wrong and try to fix it. I think this approach helps us become better programmers and makes our game better over time.
+
+### A decision I can apply
+One mistake I can learn from is trying to work on too many parts of a project at once without testing each part first. This shows that I need to be more organized and patient when developing our game. One standard I want to maintain is making sure that each feature works before moving on to the next one. A small action I can repeat is testing our game's controls or other features after every change and fixing any problems before adding something new. This would help our team create a more reliable and enjoyable game.
+
+### A question or next investigation
+One question I have is how our team can develop better work habits while creating our game. I would like to test whether setting small goals and reviewing our progress after each work session helps us become more productive. For example, we could focus on completing one feature, such as making the player catch a bad guy, and then test it before starting something else. This could help us learn from our mistakes and improve our teamwork.
+
+## Designing Your Teams and Tools
+Attention First, Chapter 8, pp. 71–74.
+
+### What I understand from this chapter
+What I understood from this chapter is that having the right people and tools is important when working on a project. On pages 72–73, the author explains the difference between tools and team members and how people can have different responsibilities. The chapter also talks about masters and chiefs, where masters focus on the quality of the work while chiefs focus on organizing and directing the team. I think this relates to our video game because everyone needs to contribute their skills and work together to create a functioning game.
+
+### My opinion and reasons
+I agree with the chapter because I think a team works better when everyone understands their responsibilities and uses the right tools. For example, in our game where the player catches bad guys, some team members could focus on programming the characters while others work on the environment, story, or gameplay. If everyone tries to do everything without communicating, it could lead to confusion and wasted time. I think dividing responsibilities and helping each other when necessary would make developing our game easier and more organized.
+
+### A decision I can apply
+One thing I can contribute to our game is helping with programming and testing the gameplay. One capability I still need to improve is understanding how to program the bad guys to move and react to the player. Unity would be a useful tool because it allows us to create the game environment and test how the characters interact. Protecting craft means making sure the features I work on function correctly, while coordinating direction means making sure my work fits with what the rest of the team is doing. I would accept responsibility for helping test the game, identifying problems, and improving the gameplay.
+
+### A question or next investigation
+One question I have is how our team can divide responsibilities in a way that makes development more efficient. I would like to investigate whether assigning each person a specific part of the game would help us finish our project faster. For example, we could have different people focus on player movement, enemy behavior, and the game environment, then combine everything into one playable game. We could test whether this approach reduces confusion and helps us make more progress.
+
+## The Human Operating System
+Attention First, Chapter 11, pp. 93–103.
+
+### What I understand from this chapter
+What I understood from this chapter is that being productive is not just about doing a lot of work, but about making decisions that help accomplish a goal. On pages 100–101, the author explains that too much control can limit creativity, while too much freedom can lead to confusion. The chapter emphasizes balancing structure with creativity and using human judgment alongside technology. I think this relates to our video game because our team needs to focus on making a playable game instead of spending too much time on features that do not contribute to our main objective.
+
+### My opinion and reasons
+I agree with the chapter because I think having a clear goal is more important than simply staying busy. For example, our team could spend a lot of time designing characters, adding decorations, or discussing ideas without actually making the game playable. While those things can be important, they do not matter as much if the player cannot catch the bad guys. I think we should focus on getting the basic gameplay working first and then improve the appearance and add more features afterward.
+
+### A decision I can apply
+One mission worth our effort is creating a working video game where the player can chase and catch bad guys. An alternative would be making a more complicated game with multiple levels, detailed environments, and many different features. I would choose to focus on the basic gameplay first because it is more realistic for our team and gives us something we can test. We would explore the movement and catching mechanics freely, verify that players can successfully catch a bad guy, and reconsider our approach if testing shows that the controls are confusing or the game is not enjoyable.
+
+### A question or next investigation
+One question I have is how our team can tell the difference between making real progress and just staying busy. I would like to test whether setting a specific goal for each work session helps us finish our game more efficiently. For example, instead of spending an entire session discussing new ideas, we could set a goal of making one bad guy move or allowing the player to catch one. At the end of the session, we could check whether we actually accomplished that goal. This would help us stay focused on meaningful progress.
+
+## Bring something to the summit.
+
+### The connection across the readings
+The main connection I noticed across the chapters is that successful projects require clear goals, teamwork, organization, and continuous improvement. Chapter 3 explains how pipelines break large tasks into smaller steps. Chapter 6 emphasizes keeping people's attention by avoiding unnecessary distractions. Chapter 7 discusses how people improve through repeated practice and learning from mistakes. Chapter 8 explains the importance of choosing the right tools and dividing responsibilities. Chapter 11 focuses on using human judgment and creativity to make meaningful progress. These ideas have helped me understand that our goal should be to create a working game where players can catch bad guys before worrying about adding complicated features.
+
+### Evidence I am ready to show
+I can show my notes from the five chapters, our team's game idea, and the plan we have discussed for developing it. Our game involves a player chasing and catching bad guys, so I can explain how we would organize the project into smaller tasks such as creating player movement, programming the bad guys, and developing the catching system. I can also explain how these features connect to the ideas from the readings. I still need to learn more about programming in Unity, especially how to make the bad guys react to the player and how to test the game to make sure everything works correctly.
+
+### My board in words
+My whiteboard would have our main goal in the center, which is creating a playable video game where the player catches bad guys. Around that goal, I would connect five important ideas from the readings. The first would be pipelines, which help us divide development into smaller steps. The second would be attention, which reminds us to keep the game simple and understandable. The third would be improvement, which involves testing and fixing mistakes. The fourth would be teamwork and tools, which help us divide responsibilities and use Unity effectively. The fifth would be human judgment, which helps us make decisions about what features are most important. All five ideas would connect back to our goal of creating a functional and enjoyable game.
+
+## Choose where you want to go.
+
+### My direction
+Join a lead
+
+### The mission I want to explore
+The mission I want to explore is creating a video game where the player takes on the role of someone who catches bad guys. The game would be designed for people who enjoy action and adventure games. The main playable moment would involve the player chasing a criminal, avoiding obstacles, and successfully catching them. I want the game to be simple enough for new players to understand while still being challenging and entertaining.
+
+### My pitch
+I want to contribute to our team's video game because I think it is a good opportunity to improve my programming and game development skills. From the readings, I learned that successful projects require clear goals, teamwork, and continuous improvement. I can help by testing the game, identifying problems, and working on basic programming features. I would also like to learn more about Unity and how to make the characters interact with each other. Our team will need help with programming, character movement, and designing the gameplay. My next step would be to work with the team to create and test a basic version of the game.
+
+### Conversations and decisions
+I plan to talk with my teammates about how we can divide responsibilities and what each person can contribute to the game. I want to learn which parts of the game need the most work and where my skills would be most useful. I think I would be a good fit for helping with programming and testing because I want to improve my technical skills. One decision I would suggest is focusing on making the player movement and catching mechanics work before adding more complicated features. This would help us make steady progress toward a playable game.
+
+## Agree on the work.
+
+### Team name / solo mission
+Human Systems Check
+
+### Agreed lead / my name if solo
+Leah
+
+### Accepted members and contributions
+Leah - Team Lead
+Rue - Artwork
+Nick - Coding Expert
+George - Assistant
+Chris - Whiteboard Organizer
+Andy - Image Editor
+Caleb - Music
+AI - Assisting in Coding and Organization
+
+### How the literature strengthens this team
+Chapter 7 explains that identity develops through consistent actions, responsibility, and learning from mistakes. This encourages our team to take responsibility for our contributions. Chapter 8 explains that successful teams need people with different skills and tools that serve a clear purpose. We can apply this by dividing responsibilities, communicating clearly, and helping each other develop our project. Chapter 11 also emphasizes the importance of human judgment when using technology, which reminds us to use AI as a helpful tool rather than letting it make every decision.
+
+### Communication and check-in plan
+Our team will communicate through a group chat and during class meetings. We will use GitHub to share our work and keep track of changes. We plan to check our progress weekly, discuss any problems, and make sure everyone understands their responsibilities. Leah will help coordinate the team, while George, Chris, Andy, and Caleb will contribute to the project and share updates on their progress.
+
+### Team GitHub URL, or Working solo
+https://github.com/DemonicAssets/Week-11-Repository
+
+## Make the Attention Accord.
+
+### Purpose and smallest playable result
+Our goal is to create a video game where the player controls a character who catches criminals. The player will move around the environment, chase a criminal, and capture them. When the criminal is caught, they will disappear or stop moving, and the player's score will increase. Our first playable version will focus on movement, chasing, and capturing one criminal.
+
+### My attention promise
+Our main question is whether the player can successfully chase and capture a criminal. We will test this by creating a simple playable scene and recording whether movement, collision detection, and capturing work correctly. We will share screenshots, gameplay recordings, and test results with our team to identify problems and make improvements.
+
+### Time and dependency plan
+Our first step is to create the player character and basic movement controls in Unity. Next, we will add a criminal character, movement behavior, and a capture system. We will work on these features during class and outside of class, checking our progress weekly. If something does not work, we will simplify the feature, troubleshoot the code, and ask teammates for help before moving forward.
+
+### Board explanation and contributors
+Our mission board shows the sequence of our game: the player enters the environment, finds a criminal, chases them, and captures them to earn points. Each step depends on the previous one working correctly. Our team consists of Leah, George, Chris, Andy, and Caleb. We will collaborate on programming, gameplay mechanics, testing, and improving the game. Our board will help us organize responsibilities and track our progress.
+
+## Translate the mission into code.
+
+### My story-to-code map
+Our main objects are the player and the criminal. In Unity, we will use GameObjects with C# scripts such as PlayerController and CriminalController. The player will have properties like movement speed, position, and score. Methods will control movement and capturing criminals. When the player presses movement keys, Unity's Update() method will detect the input and move the character. When the player touches a criminal, a collision or trigger event will activate the capture method. The criminal will disappear, and the player's score will increase.
+
+### What I am borrowing and why
+We will use Unity's built-in physics and collision detection features to help create our game. These features are provided by Unity Technologies and are part of the UnityEngine namespace. We will use components such as Rigidbody and Collider to detect when the player reaches a criminal. We will also use Unity's Transform component to control character positions. These built-in tools will save time because we will not need to program movement and collision detection completely from scratch. We will check our Unity version and use its official documentation.
+
+### Object lifetime and responsibility
+When the game starts, the player and criminal objects will be created in the scene. The player will remain active throughout the level, while criminals can be removed after being captured. New criminals may appear as the game continues. We will use Unity's Destroy() method to remove captured criminals or reuse objects if needed. We will test the game to make sure criminals disappear correctly, the score updates, and no unnecessary objects remain in the scene.
+
+## Make one moment playable.
+
+### What I expect to happen
+When the player presses WASD or the arrow keys, the character will move around the environment. The player must chase and catch a criminal. When the player touches the criminal, the game will detect the collision and capture them. The criminal will disappear, and the player's score will increase. This creates a simple gameplay loop of moving, chasing, and catching criminals.
+
+### What I built and where it lives
+We are developing our game in Unity using C# scripts. Our project will contain a main scene with a player character, a criminal character, and a basic environment. We plan to create scripts called PlayerController.cs for movement, CriminalController.cs for criminal behavior, and GameManager.cs for scoring. These scripts will be stored in the project's Assets/Scripts folder. We will also save screenshots and gameplay recordings as evidence that the game works.
+
+### A difficulty and my response
+One difficulty we may encounter is getting the collision detection between the player and criminal to work correctly. We will investigate by checking the Collider and Rigidbody components in Unity and reviewing our C# scripts. We will adjust the collision settings and test the game again. Our goal is to make sure the criminal disappears and the score increases whenever the player successfully catches them.
+
+## Test what you are claiming.
+
+### My test record
+We will test the player's movement using WASD and arrow keys to make sure the character moves correctly. Next, we will test what happens when the player tries to capture a criminal from too far away. We expect nothing to happen until the player gets close enough. When the player reaches the criminal, the capture should activate, the criminal should disappear, and the score should increase. We will also test repeated interactions to make sure the same criminal cannot be captured twice. We will record our results using screenshots and gameplay recordings.
+
+### My improvement experiment
+One improvement we want to test is making the criminal capture system more reliable. We predict that adjusting the collision detection and capture distance will make the gameplay smoother. We will experiment with different detection ranges and test whether the player can capture criminals consistently. We will compare the results before and after making changes to determine whether the improvement works.
+
+### Promised versus returned evidence
+Our original goal was to create a playable game where the player can move around, chase criminals, and capture them. We plan to provide evidence through screenshots, gameplay recordings, and testing results. These will demonstrate whether movement, collision detection, and scoring work correctly. Our next steps are to fix any problems we discover, improve criminal movement, and make the gameplay more engaging. We will compare our progress with our original goals to make sure we are delivering what we promised.
+
+## Return with work you can explain.
+
+### My final access and file check
+Our project is a Unity video game where the player chases and captures criminals. We plan to organize our Unity project files, C# scripts, screenshots, gameplay recordings, and mission board in GitHub. We will also download our personal reports and editable backups. Before submitting, we will check that all required files are included, the project opens correctly, and the GitHub links work. We will review our files to make sure we are only sharing appropriate project information.
+
+### My next decision
+After this mission, I want to continue improving our video game by adding better criminal movement, more challenging gameplay, and additional levels. I also want to improve my C# programming skills and learn more about Unity's features. Our next goal is to make the game more interactive by adding animations, sound effects, and a better scoring system. We will continue testing the game and fixing problems to create a more complete and enjoyable experience.
